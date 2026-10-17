@@ -8,8 +8,6 @@ maintainer: claude-cowork
 created: 2026-06-07
 updated: 2026-06-07
 scope: repo-local — adds to (and inside this repo, overrides) ~/agents/AGENTS.md
-changelog:
-  - "1.0.0 (2026-06-07): Initial per-repo AGENTS.md — Phase 2 of the AI-first reorg."
 ---
 
 # FreeTheTeacher — Repo Rules for Agents
