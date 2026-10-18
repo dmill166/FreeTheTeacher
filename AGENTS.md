@@ -1,12 +1,5 @@
 ---
 title: FreeTheTeacher Repo Rules
-id: agents-freetheteacher
-version: 1.0.0
-status: active
-owner: Dakota Hollmann
-maintainer: claude-cowork
-created: 2026-06-07
-updated: 2026-06-07
 scope: repo-local — adds to (and inside this repo, overrides) ~/agents/AGENTS.md
 ---
 
