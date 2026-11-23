@@ -30,3 +30,7 @@ Documentation will be added later, likely in a GitHub Pages instance.
 At the moment, credit goes to my wife as the pilot user for this project. As I come across additional users/sources that I feel should be publicly commended, I'll update those here.
 * My wife. Thank you for your time and energy as I spin up another project to suck away my free time.
 * [How to write a README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+
+---
+
+*How I use AI in my work: see [my profile](https://github.com/dmill166/dmill166#how-i-work-with-ai).*
